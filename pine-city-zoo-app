@@ -1,0 +1,38 @@
+# Pine City Zoo App
+
+A multi-page zoo web application developed during the FNB App Academy programme.
+
+## Features
+
+- Interactive zoo navigation experience
+- Animal information pages
+- Weather section for visitor planning
+- User-friendly interface design
+- Multi-page application structure
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Skills Demonstrated
+
+- Frontend development
+- Responsive UI design
+- Navigation structures
+- User experience principles
+- Web application organisation
+
+## Screenshots
+
+### Home Page
+
+### Zoo Map
+![Zoo Map](screenshots/map.png)
+
+### Animal Information
+![Animals](screenshots/animals.png)
+
+### Weather Feature
+![Weather](screenshots/weather.png)
